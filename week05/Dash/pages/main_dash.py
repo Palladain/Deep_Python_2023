@@ -38,7 +38,7 @@ with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-c
 
 # Отрисовка изначальных карт
 
-f ig = px.choropleth(df_fips, geojson=counties, locations='FIPS', color='White',
+fig = px.choropleth(df_fips, geojson=counties, locations='FIPS', color='White',
                            color_continuous_scale="Viridis",
                            range_color=(0, 100),
                             scope="usa",
