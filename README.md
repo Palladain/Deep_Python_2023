@@ -26,3 +26,8 @@
 
 * [Лекция](https://colab.research.google.com/github/Palladain/Deep_Python_2023/blob/main/week04/Lecture_4.ipynb)
 * [Семинар](https://colab.research.google.com/github/Palladain/Deep_Python_2023/blob/main/week05/Seminar_5_solved.ipynb)
+
+#### Неделя 6: Исключения, логгирование и тестирование
+
+* [Лекция](https://colab.research.google.com/github/Palladain/Deep_Python_2023/blob/main/week06/Lecture_6.ipynb)
+* [Семинар](https://colab.research.google.com/github/Palladain/Deep_Python_2023/blob/main/week06/Seminar_6_solved.ipynb)
