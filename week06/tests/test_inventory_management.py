@@ -11,10 +11,7 @@ from week06.code.inventory_management import Inventory, Product
 
 def test_add_product_to_inventory():
     # your code:
-    inventory = Inventory()
-    product = Product(name="Новый товар", price=50.0, quantity=10)
-    inventory.add_product(product)
-    assert product in inventory.get_products()
+    pass
 
 
 """
@@ -26,9 +23,4 @@ def test_add_product_to_inventory():
 
 def test_final_price():
     # your code:
-    inventory = Inventory()
-    for price in [10, 20, 30, 40, 50]:
-        product = Product(name="Новый товар", price=price, quantity=10)
-        inventory.add_product(product)
-
-    assert inventory.get_final_price() == 150
+    pass
