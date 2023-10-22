@@ -1,4 +1,7 @@
 
 *.txt
 LEcture_01/*.txt
-
+*.DS_Store
+*__
+*.pytest_cache
+*homework
