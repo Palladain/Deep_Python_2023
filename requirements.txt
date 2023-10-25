@@ -1,0 +1,8 @@
+dash
+matplotlib
+numpy
+pandas
+plotly
+pytest
+python-dateutil
+seaborn
