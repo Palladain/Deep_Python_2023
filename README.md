@@ -44,7 +44,7 @@ hse@dev~$ pip install -r requirements.txt
 [02/homework]: https://classroom.github.com/a/53-HXxy3
 
 [03/lecture]: week03/Lecture_03.ipynb
-[03/seminar]: week03/Solved_Seminar_03.ipynb
+[03/seminar]: week03/Seminar_3_solved.ipynb
 [03/homework]: https://classroom.github.com/a/FB0NP7JZ
 
 [04/lecture]: week04/Lecture_4.ipynb
