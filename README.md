@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://github.com/syubogdanov/hse-howto-python">
+    <a href="https://github.com/Palladain/Deep_Python_2023">
         <img src="branding/logo/hse.svg" height="128px" width="128px">
     </a>
     <h3>
@@ -24,6 +24,7 @@
 | **Matplotlib, Seaborn**                | [**[Ссылка]**][04/lecture] | [**[Ссылка]**][04/seminar] | [**[Ссылка]**][04/homework] |
 | **Plotly, Dash**                       | [**[Ссылка]**][05/lecture] | [**[Ссылка]**][05/seminar] | [**[Ссылка]**][05/homework] |
 | **Тестирование и контроль исполнения** | [**[Ссылка]**][06/lecture] | [**[Ссылка]**][06/seminar] | -                           |
+| **Базы данных**                        | [**[Ссылка]**][07/lecture] | -                          | -                           |
 
 ## Установка
 
@@ -57,3 +58,5 @@ hse@dev~$ pip install -r requirements.txt
 
 [06/lecture]: week06/Lecture_6.ipynb
 [06/seminar]: week06/Seminar_6_solved.ipynb
+
+[07/lecture]: week07/Lecture_7.ipynb
