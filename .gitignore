@@ -1,5 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
 
+# Other
 *.txt
 LEcture_01/*.txt
 *.DS_Store
-
+*__
+*.pytest_cache
+*homework

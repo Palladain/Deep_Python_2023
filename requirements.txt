@@ -1,0 +1,13 @@
+dash
+jaydebeapi
+matplotlib
+numpy
+pandas
+plotly
+psycopg2
+pyodbc
+pypika
+pytest
+python-dateutil
+seaborn
+sqlalchemy
