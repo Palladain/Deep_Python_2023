@@ -1,0 +1,13 @@
+while True: 
+    try: 
+        pull_request = get_latest_pull_request() 
+        if pull_request.is_merged(): 
+            print("Pull request successfully merged!") 
+            celebrate_with_dance() 
+            break 
+        else: 
+            print("Waiting for pull request to be merged...") 
+            procrastinate() 
+    except Exception as e: 
+        print(f"Oops! An error occurred: {e}") 
+        blame_it_all()
